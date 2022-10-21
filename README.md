@@ -11,9 +11,23 @@ A dynamic image gallery
 
 ## Built With
 
+- Semantic HTML5 Markup
+- Modern CSS
+- JavaScript (ES6)
+
 ## Features
+- Fully Responsive Layout
+- Infinity Scroll
+- Refresh Button
+- Single Page Design
+- Back to Top Button
 
 ## Screenshots
+
+## Screenshots
+- Add a Dark/Light Theme Toggle
+- Add Local Storage Functionality
+- Ability to 'favourite/like' images
 
 ## Acknowledgments
 
