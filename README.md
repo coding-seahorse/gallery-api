@@ -23,8 +23,9 @@ A dynamic image gallery
 - Back to Top Button
 
 ## Screenshots
+![gallery2](https://user-images.githubusercontent.com/115553545/197239654-48badfb1-55c5-4e0d-86f1-45f4bf3ccab4.png)
 
-## Screenshots
+## Room for Improvement
 - Add a Dark/Light Theme Toggle
 - Add Local Storage Functionality
 - Ability to 'favourite/like' images
