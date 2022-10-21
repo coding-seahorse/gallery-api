@@ -6,8 +6,7 @@
 <a href="http://gallery.eddbyrne.com/">View live</a>
 </p>
 
-A dynamic image gallery
-
+A dynamic image gallery for users to endlessly scroll through cat pictures.
 
 ## Built With
 
@@ -20,6 +19,7 @@ A dynamic image gallery
 - Infinity Scroll
 - Refresh Button
 - Single Page Design
+- Expandable Pictures
 - Back to Top Button
 
 ## Screenshots
