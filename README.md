@@ -7,3 +7,18 @@
 </p>
 
 A dynamic image gallery
+
+
+## Built With
+
+## Features
+
+## Screenshots
+
+## Acknowledgments
+
+- The Net Ninja's Modern JavaScript Course
+- JavaScript.Info
+- MDN Web Docs
+- W3C (primarily for the html and css)
+- Kevin Powell (primarily for css)
